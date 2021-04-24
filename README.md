@@ -1,4 +1,1 @@
-# gis
-# gis
-# gis
 # usaha
