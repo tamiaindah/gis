@@ -1,0 +1,92 @@
+.navbar{
+    background-color:whitesmoke;
+    width:unset;
+    height:60px;
+}
+.navbar-brand{
+    color:black;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color:cornflowerblue;
+}
+.navbar-nav{
+    margin : 0 auto;
+}
+.nav-item a{
+    color:black;
+    font-weight: bold;
+}
+.nav-item a:hover{
+    background-color:gray;
+}
+.dropdown-menu{
+    background-color: transparent;
+    color: black;
+}
+.navbar form button{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+.navbar form button:hover{
+    background-color: whitesmoke;
+    color:black;
+}
+.formsearch{
+    width: unset;
+}
+
+.group1{
+    margin-top: auto;
+    text-align: justify;
+    width: unset;
+    height:86px;
+}
+.display{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 60px;
+    font-style: bold;
+}
+.textnbsp{
+    color: whitesmoke;
+    text-align: justify;
+    text-shadow: black;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+}
+.wrap-form-contact {
+    background: transparent;
+}
+.row{
+    margin: 380px;
+    margin-top: 80px;
+    
+}
+.form-contact {
+    width:318px;
+    padding:28px;
+    background: RGB (10, 0, 1);
+    box-shadow: 0px 2px 6px 6px grey;
+}
+.textformcontrol{
+    color: black;
+    font-family: tahoma;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.form-check-label{
+    color: RGB (240, 248, 254);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.form-check-label:hover{
+    color: RGB (30, 144, 255);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+
